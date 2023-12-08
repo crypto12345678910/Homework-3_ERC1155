@@ -1,0 +1,11 @@
+{
+  "description": "A beautiful nature",
+  "image": "ipfs://bafybeicdzmu7xu5buckqaympy6eon7qddmsjcf4gv3oydav4jrcuvhram4",
+  "name": "Rare Sky",
+  "attributes": [
+    {
+      "trait_type": "Colors",
+      "value": "Orange"
+    }
+  ]
+}
